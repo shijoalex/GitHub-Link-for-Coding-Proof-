@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "10",
+      "title": "Gucci Bloom Eau de",
+      "meta": {
+        "createdAt": "2026-07-19T20:10:42.419Z",
+        "updatedAt": "2026-07-27T15:21:17.071Z",
+        "barcode": "3170832177880",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      }
+    }
+  ],
+  "users": [],
+  "total": 88,
+  "skip": 0,
+  "limit": 30,
+  "$schema": "./node_modules/json-server/schema.json"
+}
